@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Peça seu orçamento — Encanador SP",
+    "description": "Solicite orçamento de caça-vazamento, desentupimento, conserto ou instalação hidráulica com o Encanador SP. Atendimento rápido em São Paulo e região."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Peça seu orçamento",
+      "title": "Orçamento sem compromisso em três etapas.",
+      "lead": "Informe o serviço e seus dados — a gente agenda a visita e dá o diagnóstico.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Orçamento", "href": "/agendar" } ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três etapas do chamado ao reparo.",
+      "steps": [
+        { "n": "01", "title": "Chamado", "text": "Conte o problema pelo formulário ou WhatsApp." },
+        { "n": "02", "title": "Diagnóstico", "text": "Localizamos a causa e fechamos o orçamento na hora." },
+        { "n": "03", "title": "Reparo", "text": "Executamos, testamos e deixamos o ambiente limpo." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Solicite agora",
+      "title": "Preencha e receba seu orçamento.",
+      "services": ["Caça-vazamento", "Conserto de vazamento", "Desentupimento", "Desentupimento de esgoto", "Instalação hidráulica", "Reparo de torneiras e registros", "Instalação de chuveiro e aquecedor", "Limpeza de caixa d'água", "Vídeo inspeção de tubulação"]
+    }}
+  ]
+}

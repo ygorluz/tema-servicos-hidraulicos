@@ -1,0 +1,25 @@
+{
+  "name": "Encanador SP",
+  "segmento": "Encanador",
+  "schemaType": "PlumbingService",
+  "postUrlPrefix": "",
+  "description": "Encanador em São Paulo: caça-vazamento sem quebra-quebra, desentupimento, conserto de vazamento, instalação hidráulica e limpeza de caixa d'água. Atendimento rápido e orçamento sem compromisso.",
+  "ctaLabel": "Pedir orçamento",
+  "phone": "(11) 0000-0000",
+  "whatsapp": "5511000000000",
+  "email": "contato@encanadorsp.com.br",
+  "address": "São Paulo — SP",
+  "hours": "Seg a Sex, 8h às 18h • Sáb, 8h às 12h • Emergência 24h",
+  "social": { "instagram": "#", "facebook": "#", "youtube": "#" },
+  "nap": {
+    "streetAddress": "Rua Exemplo, 000 — conjunto 00",
+    "addressLocality": "São Paulo",
+    "addressRegion": "SP",
+    "postalCode": "01000-000",
+    "country": "BR",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "priceRange": "$$",
+    "mapEmbed": "https://www.google.com/maps?q=S%C3%A3o+Paulo+SP&output=embed"
+  }
+}

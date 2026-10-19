@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Vazamentos",
+    "slug": "vazamentos"
+  },
+  {
+    "name": "Desentupimento",
+    "slug": "desentupimento"
+  },
+  {
+    "name": "Instalação hidráulica",
+    "slug": "instalacao-hidraulica"
+  },
+  {
+    "name": "Caixa d'água",
+    "slug": "caixa-dagua"
+  },
+  {
+    "name": "Dicas de manutenção",
+    "slug": "dicas-de-manutencao"
+  }
+]

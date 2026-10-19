@@ -1,0 +1,276 @@
+{
+  "blocks": [
+    {
+      "type": "hero",
+      "props": {
+        "eyebrow": "Encanador em São Paulo",
+        "title": "Encanador em São Paulo, com atendimento no mesmo dia.",
+        "lead": "Caça-vazamento sem quebra-quebra, desentupimento, conserto de vazamento e instalação hidráulica. Diagnóstico honesto e orçamento sem compromisso.",
+        "cta": {
+          "label": "Pedir orçamento",
+          "href": "#contato"
+        },
+        "rating": {
+          "score": "5,0",
+          "count": "230+ avaliações"
+        },
+        "doctor": {
+          "name": "Equipe própria",
+          "role": "Encanadores experientes",
+          "photo": "/images/doctor.jpg"
+        },
+        "contact": {
+          "phone": "(11) 0000-0000",
+          "hours": "Seg a Sex, 8h às 18h • Emergência 24h"
+        }
+      }
+    },
+    {
+      "type": "sobre",
+      "props": {
+        "image": "/images/about.jpg",
+        "badge": "+15 anos resolvendo hidráulica em São Paulo",
+        "eyebrow": "Sobre a empresa",
+        "title": "Encanador que mostra o problema antes de cobrar.",
+        "lead": "Diagnosticamos a causa, explicamos a solução e fechamos o preço antes de começar. Sem quebra-quebra desnecessário e sem surpresa na conta.",
+        "benefits": [
+          "Equipe própria de encanadores",
+          "Caça-vazamento sem quebrar tudo",
+          "Atendimento de emergência 24h",
+          "Garantia na mão de obra"
+        ],
+        "cta": {
+          "label": "Conheça a empresa",
+          "href": "/sobre"
+        }
+      }
+    },
+    {
+      "type": "servicos",
+      "props": {
+        "eyebrow": "Nossos serviços",
+        "title": "Tudo de hidráulica para casa e empresa.",
+        "items": [
+          {
+            "title": "Caça-vazamento",
+            "text": "Localização do vazamento sem quebra-quebra."
+          },
+          {
+            "title": "Desentupimento",
+            "text": "Pia, ralo, vaso e coluna sem agredir o tubo."
+          },
+          {
+            "title": "Conserto de vazamento",
+            "text": "Reparo definitivo em tubo, registro e descarga."
+          },
+          {
+            "title": "Instalação hidráulica",
+            "text": "Encanamento novo e troca de tubulação antiga."
+          }
+        ],
+        "cta": {
+          "label": "Ver todos os serviços",
+          "href": "/servicos"
+        }
+      }
+    },
+    {
+      "type": "numeros",
+      "props": {
+        "stats": [
+          {
+            "value": "15+",
+            "label": "Anos de hidráulica"
+          },
+          {
+            "value": "9mil+",
+            "label": "Chamados atendidos"
+          },
+          {
+            "value": "24h",
+            "label": "Atendimento de emergência"
+          },
+          {
+            "value": "98%",
+            "label": "Clientes satisfeitos"
+          }
+        ]
+      }
+    },
+    {
+      "type": "porqueEscolher",
+      "props": {
+        "eyebrow": "Por que nos escolher",
+        "title": "Problema resolvido de uma vez, sem retrabalho.",
+        "image": "/images/why.jpg",
+        "features": [
+          {
+            "title": "Diagnóstico antes de quebrar",
+            "text": "Achamos o ponto exato com equipamento de detecção."
+          },
+          {
+            "title": "Atendimento no mesmo dia",
+            "text": "Emergência de vazamento e entupimento 24h."
+          },
+          {
+            "title": "Orçamento transparente",
+            "text": "Preço fechado antes de começar, sem surpresa."
+          },
+          {
+            "title": "Reparo definitivo",
+            "text": "Trocamos a peça certa, não fazemos remendo."
+          },
+          {
+            "title": "Garantia na mão de obra",
+            "text": "Confiamos no serviço que entregamos."
+          },
+          {
+            "title": "Serviço limpo",
+            "text": "Deixamos o ambiente organizado ao terminar."
+          }
+        ]
+      }
+    },
+    {
+      "type": "comoFunciona",
+      "props": {
+        "eyebrow": "Como funciona",
+        "title": "Três passos do chamado ao reparo.",
+        "steps": [
+          {
+            "n": "01",
+            "title": "Chamado",
+            "text": "Conte o problema pelo WhatsApp ou peça a visita técnica."
+          },
+          {
+            "n": "02",
+            "title": "Diagnóstico",
+            "text": "Localizamos a causa e fechamos o orçamento na hora."
+          },
+          {
+            "n": "03",
+            "title": "Reparo",
+            "text": "Executamos, testamos e deixamos o ambiente limpo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "equipe",
+      "props": {
+        "eyebrow": "Nossa equipe",
+        "title": "Encanadores que cuidam de cada detalhe.",
+        "members": [
+          {
+            "name": "Equipe de emergência",
+            "role": "Vazamento e entupimento",
+            "photo": "/images/team-1.jpg"
+          },
+          {
+            "name": "Equipe de detecção",
+            "role": "Caça-vazamento",
+            "photo": "/images/team-2.jpg"
+          },
+          {
+            "name": "Equipe de instalação",
+            "role": "Hidráulica e reforma",
+            "photo": "/images/team-3.jpg"
+          },
+          {
+            "name": "Atendimento",
+            "role": "Orçamento e suporte",
+            "photo": "/images/team-4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "depoimentos",
+      "props": {
+        "eyebrow": "Depoimentos",
+        "title": "O que nossos clientes dizem.",
+        "rating": {
+          "score": "4,9",
+          "label": "média de avaliações"
+        },
+        "items": [
+          {
+            "quote": "Acharam o vazamento sem quebrar meu piso inteiro. Resolveram rápido.",
+            "name": "Roberto L.",
+            "role": "Vila Mariana"
+          },
+          {
+            "quote": "Desentupiram a pia e ainda explicaram como evitar de novo. Recomendo.",
+            "name": "Mariana D.",
+            "role": "Pinheiros"
+          },
+          {
+            "quote": "Vieram no mesmo dia na emergência de vazamento. Atendimento nota dez.",
+            "name": "Thiago L.",
+            "role": "Tatuapé"
+          }
+        ]
+      }
+    },
+    {
+      "type": "antesDepois",
+      "props": {
+        "eyebrow": "Resultados",
+        "title": "Antes e depois.",
+        "items": [
+          {
+            "label": "Vazamento reparado",
+            "before": "/images/before-1.jpg",
+            "after": "/images/after-1.jpg"
+          },
+          {
+            "label": "Tubulação trocada",
+            "before": "/images/before-2.jpg",
+            "after": "/images/after-2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "novidades",
+      "props": {
+        "eyebrow": "Novidades",
+        "title": "Dicas de hidráulica e manutenção.",
+        "items": [
+          {
+            "title": "Como saber se você tem um vazamento escondido",
+            "excerpt": "O teste do hidrômetro e os sinais de umidade.",
+            "image": "/images/post-1.jpg",
+            "href": "#"
+          },
+          {
+            "title": "Pia entupindo sempre? Veja o que evitar",
+            "excerpt": "Gordura e restos que travam o encanamento.",
+            "image": "/images/post-2.jpg",
+            "href": "#"
+          },
+          {
+            "title": "De quanto em quanto tempo limpar a caixa d'água",
+            "excerpt": "O cuidado que mantém a água segura para beber.",
+            "image": "/images/post-3.jpg",
+            "href": "#"
+          }
+        ]
+      }
+    },
+    {
+      "type": "ctaContato",
+      "props": {
+        "eyebrow": "Fale com a gente",
+        "title": "Peça seu orçamento sem compromisso.",
+        "services": [
+          "Caça-vazamento",
+          "Desentupimento",
+          "Conserto de vazamento",
+          "Instalação hidráulica",
+          "Limpeza de caixa d'água"
+        ]
+      }
+    }
+  ]
+}

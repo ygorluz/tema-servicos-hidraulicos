@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "title": "Serviços de encanador — Encanador SP",
+    "description": "Caça-vazamento, desentupimento, conserto de vazamento, instalação hidráulica, limpeza de caixa d'água e vídeo inspeção. Conheça todos os serviços do Encanador SP em São Paulo."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossos serviços",
+      "title": "Hidráulica resolvida para casa e empresa.",
+      "lead": "Do vazamento escondido ao entupimento da coluna, da torneira que pinga à instalação nova — diagnóstico honesto e reparo definitivo.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Serviços", "href": "/servicos" } ]
+    }},
+    { "type": "servicos", "props": {
+      "fromData": true,
+      "cta": { "label": "Pedir orçamento", "href": "/agendar" }
+    }},
+    { "type": "porqueEscolher", "props": {
+      "eyebrow": "Por que nos escolher",
+      "title": "Diagnóstico certo, reparo que não volta.",
+      "image": "/images/why.jpg",
+      "features": [
+        { "title": "Encanadores experientes", "text": "Equipe que diagnostica e executa com cuidado." },
+        { "title": "Detecção sem quebra-quebra", "text": "Achamos o vazamento no ponto exato." },
+        { "title": "Orçamento sem compromisso", "text": "Preço fechado antes de começar." },
+        { "title": "Atendimento no mesmo dia", "text": "Emergência de vazamento e entupimento 24h." },
+        { "title": "Reparo definitivo", "text": "Trocamos a peça certa, sem remendo." },
+        { "title": "Garantia na mão de obra", "text": "Confiamos no serviço que entregamos." }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Peça seu orçamento sem compromisso.",
+      "services": ["Caça-vazamento", "Conserto de vazamento", "Desentupimento", "Desentupimento de esgoto", "Instalação hidráulica", "Reparo de torneiras e registros", "Instalação de chuveiro e aquecedor", "Limpeza de caixa d'água", "Vídeo inspeção de tubulação"]
+    }}
+  ]
+}

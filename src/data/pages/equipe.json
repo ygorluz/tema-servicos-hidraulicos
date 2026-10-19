@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Nossa equipe — Encanador SP",
+    "description": "Encanadores especializados em detecção de vazamento, desentupimento e instalação hidráulica em São Paulo. Conheça o time do Encanador SP."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Nossa equipe",
+      "title": "Encanadores que resolvem de uma vez.",
+      "lead": "Profissionais treinados em detecção, desentupimento e instalação para cada tipo de problema.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Equipe", "href": "/equipe" } ]
+    }},
+    { "type": "equipe", "props": {
+      "members": [
+        { "name": "Carlos Mendes", "role": "Diagnóstico e orçamento", "photo": "/images/team-1.jpg" },
+        { "name": "Rafael Souza", "role": "Caça-vazamento e reparo", "photo": "/images/team-2.jpg" },
+        { "name": "Lucas Ferreira", "role": "Desentupimento e esgoto", "photo": "/images/team-3.jpg" },
+        { "name": "André Lima", "role": "Instalação hidráulica", "photo": "/images/team-4.jpg" }
+      ]
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "15+", "label": "Anos no mercado" },
+        { "value": "9mil+", "label": "Chamados atendidos" },
+        { "value": "24h", "label": "Atendimento de emergência" },
+        { "value": "98%", "label": "Clientes satisfeitos" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Peça seu orçamento sem compromisso.",
+      "services": ["Caça-vazamento", "Conserto de vazamento", "Desentupimento", "Desentupimento de esgoto", "Instalação hidráulica", "Reparo de torneiras e registros", "Instalação de chuveiro e aquecedor", "Limpeza de caixa d'água", "Vídeo inspeção de tubulação"]
+    }}
+  ]
+}

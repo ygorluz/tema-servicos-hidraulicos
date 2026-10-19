@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Sobre o Encanador SP",
+    "description": "Mais de 15 anos resolvendo vazamento, entupimento e instalação hidráulica em São Paulo. Conheça a história e os valores do Encanador SP."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Sobre a empresa",
+      "title": "Encanador que mostra o problema antes de cobrar.",
+      "lead": "Mais de uma década atendendo casas, apartamentos e empresas em toda a cidade de São Paulo.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Sobre", "href": "/sobre" } ]
+    }},
+    { "type": "sobre", "props": {
+      "image": "/images/about.jpg",
+      "badge": "15+ anos de experiência",
+      "title": "Encanador que mostra o problema antes de cobrar.",
+      "lead": "Atendemos da emergência de vazamento à reforma hidráulica completa, sempre com diagnóstico honesto e serviço limpo.",
+      "benefits": [
+        "Encanadores experientes",
+        "Caça-vazamento sem quebrar tudo",
+        "Atendimento de emergência 24h",
+        "Orçamento sem compromisso"
+      ],
+      "cta": { "label": "Pedir orçamento", "href": "#contato" }
+    }},
+    { "type": "numeros", "props": {
+      "stats": [
+        { "value": "15+", "label": "Anos no mercado" },
+        { "value": "9mil+", "label": "Chamados atendidos" },
+        { "value": "24h", "label": "Atendimento de emergência" },
+        { "value": "98%", "label": "Clientes satisfeitos" }
+      ]
+    }},
+    { "type": "comoFunciona", "props": {
+      "eyebrow": "Como funciona",
+      "title": "Três etapas do chamado ao reparo.",
+      "steps": [
+        { "n": "01", "title": "Chamado", "text": "Conte o problema pelo formulário ou WhatsApp." },
+        { "n": "02", "title": "Diagnóstico", "text": "Localizamos a causa e fechamos o orçamento na hora." },
+        { "n": "03", "title": "Reparo", "text": "Executamos, testamos e deixamos o ambiente limpo." }
+      ]
+    }},
+    { "type": "depoimentos", "props": {
+      "eyebrow": "Depoimentos",
+      "title": "O que nossos clientes dizem.",
+      "rating": { "score": "4,9", "label": "média de satisfação" },
+      "items": [
+        { "quote": "Acharam o vazamento sem quebrar meu piso inteiro. Resolveram rápido.", "name": "Roberto L.", "role": "Cliente — Vila Mariana" },
+        { "quote": "Desentupiram a pia e explicaram como evitar de novo. Atendimento atencioso.", "name": "Mariana D.", "role": "Cliente — Pinheiros" },
+        { "quote": "Vieram no mesmo dia na emergência. Sem estresse nenhum.", "name": "Thomas L.", "role": "Cliente — Santana" }
+      ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Peça seu orçamento sem compromisso.",
+      "services": ["Caça-vazamento", "Conserto de vazamento", "Desentupimento", "Desentupimento de esgoto", "Instalação hidráulica", "Reparo de torneiras e registros", "Instalação de chuveiro e aquecedor", "Limpeza de caixa d'água", "Vídeo inspeção de tubulação"]
+    }}
+  ]
+}

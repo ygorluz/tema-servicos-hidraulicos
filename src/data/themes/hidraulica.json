@@ -1,0 +1,17 @@
+{
+  "name": "Hidráulica",
+  "colors": {
+    "bg": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "soft": "#EEF4FB",
+    "ink": "#0B2742",
+    "ink-muted": "#49627C",
+    "primary": "#0B2742",
+    "secondary": "#1B6FB0",
+    "accent": "#2BA4E0",
+    "accent-ink": "#06283D",
+    "accent-strong": "#0A5A8C",
+    "border": "#D8E5F1"
+  },
+  "fonts": { "display": "'Poppins', sans-serif", "body": "'Poppins', sans-serif" }
+}

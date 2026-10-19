@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "title": "Contato — Encanador SP",
+    "description": "Fale com o Encanador SP: WhatsApp, e-mail e atendimento em São Paulo. Tire dúvidas ou solicite orçamento de caça-vazamento, desentupimento e instalação hidráulica."
+  },
+  "blocks": [
+    { "type": "pageHeader", "props": {
+      "eyebrow": "Fale com a gente",
+      "title": "Estamos prontos para atender você.",
+      "lead": "Mande mensagem, ligue ou chame no WhatsApp — atendimento rápido, inclusive na emergência.",
+      "breadcrumb": [ { "label": "Início", "href": "/" }, { "label": "Contato", "href": "/contato" } ]
+    }},
+    { "type": "ctaContato", "props": {
+      "eyebrow": "Envie uma mensagem",
+      "title": "Conte qual é o seu problema de hidráulica.",
+      "services": ["Caça-vazamento", "Conserto de vazamento", "Desentupimento", "Desentupimento de esgoto", "Instalação hidráulica", "Reparo de torneiras e registros", "Instalação de chuveiro e aquecedor", "Limpeza de caixa d'água", "Vídeo inspeção de tubulação"]
+    }}
+  ]
+}

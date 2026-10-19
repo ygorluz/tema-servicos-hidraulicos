@@ -1,0 +1,112 @@
+[
+  {
+    "slug": "vila-mariana",
+    "nome": "Vila Mariana",
+    "prep": "na",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": [
+      "Paraíso",
+      "Ana Rosa",
+      "Saúde"
+    ],
+    "referenciaLocal": "Atendemos toda a Vila Mariana, dos prédios próximos ao metrô Ana Rosa às casas perto do Parque do Ibirapuera, com encanador no mesmo dia para vazamento e entupimento.",
+    "faq": [
+      {
+        "q": "Vocês atendem emergência de vazamento na Vila Mariana?",
+        "a": "Sim. Para vazamento e entupimento fazemos atendimento prioritário na Vila Mariana, normalmente no mesmo dia."
+      },
+      {
+        "q": "Fazem caça-vazamento em apartamento antigo na região?",
+        "a": "Fazemos. Usamos equipamento de detecção para achar o ponto exato sem precisar quebrar todo o piso ou a parede."
+      }
+    ]
+  },
+  {
+    "slug": "pinheiros",
+    "nome": "Pinheiros",
+    "prep": "em",
+    "regiao": "Zona Oeste de São Paulo",
+    "bairrosVizinhos": [
+      "Vila Madalena",
+      "Itaim Bibi",
+      "Jardim Paulista"
+    ],
+    "referenciaLocal": "Atendemos Pinheiros e a Vila Madalena, dos apartamentos às lojas e escritórios da região, com encanador para vazamento, desentupimento e instalação hidráulica.",
+    "faq": [
+      {
+        "q": "Atendem comércio e escritório em Pinheiros?",
+        "a": "Sim. Fazemos desentupimento, conserto de vazamento e instalação hidráulica em lojas, bares e escritórios de Pinheiros, com horário combinado para não atrapalhar o funcionamento."
+      },
+      {
+        "q": "Quanto tempo leva para chegar um encanador?",
+        "a": "Em Pinheiros costumamos chegar no mesmo dia. Para emergência de vazamento, priorizamos o atendimento e damos uma previsão de horário ao confirmar o chamado."
+      }
+    ]
+  },
+  {
+    "slug": "tatuape",
+    "nome": "Tatuapé",
+    "prep": "no",
+    "regiao": "Zona Leste de São Paulo",
+    "bairrosVizinhos": [
+      "Anália Franco",
+      "Vila Formosa",
+      "Carrão"
+    ],
+    "referenciaLocal": "Atendemos o Tatuapé e a Anália Franco, dos condomínios de torres às casas, com encanador para caça-vazamento, desentupimento de esgoto e troca de tubulação.",
+    "faq": [
+      {
+        "q": "Fazem desentupimento de esgoto no Tatuapé?",
+        "a": "Fazemos. Desentupimos pia, ralo, vaso e a rede de esgoto, e quando preciso usamos a vídeo inspeção para confirmar a causa antes de qualquer obra."
+      },
+      {
+        "q": "Atendem condomínios de torres na região?",
+        "a": "Sim, atendemos condomínios do Tatuapé com horário agendado e identificação, tanto nas áreas comuns quanto dentro dos apartamentos."
+      }
+    ]
+  },
+  {
+    "slug": "santana",
+    "nome": "Santana",
+    "prep": "em",
+    "regiao": "Zona Norte de São Paulo",
+    "bairrosVizinhos": [
+      "Carandiru",
+      "Mandaqui",
+      "Tucuruvi"
+    ],
+    "referenciaLocal": "Levamos o serviço de encanador a Santana e ao Tucuruvi, das casas mais antigas aos prédios próximos ao metrô, com diagnóstico de vazamento e reparo hidráulico.",
+    "faq": [
+      {
+        "q": "Vocês trabalham com casa antiga em Santana?",
+        "a": "Sim. Casa antiga costuma ter tubulação de ferro ou de barro; avaliamos no local e indicamos o reparo ou a troca mais segura, sempre explicando antes."
+      },
+      {
+        "q": "Fazem limpeza de caixa d'água na Zona Norte?",
+        "a": "Fazemos. Limpamos, desinfetamos e verificamos a vedação da caixa d'água em Santana e na região, com registro do serviço."
+      }
+    ]
+  },
+  {
+    "slug": "moema",
+    "nome": "Moema",
+    "prep": "em",
+    "regiao": "Zona Sul de São Paulo",
+    "bairrosVizinhos": [
+      "Campo Belo",
+      "Vila Nova Conceição",
+      "Indianópolis"
+    ],
+    "referenciaLocal": "Atendemos Moema e a Vila Nova Conceição, dos apartamentos de alto padrão aos prédios comerciais, com encanador para vazamento, instalação de aquecedor e reparo hidráulico.",
+    "faq": [
+      {
+        "q": "Instalam aquecedor e chuveiro em Moema?",
+        "a": "Sim. Instalamos e trocamos chuveiro, ducha e aquecedor a gás ou elétrico em Moema, verificando a pressão e a parte hidráulica antes de liberar o uso."
+      },
+      {
+        "q": "Atendem com cuidado em apartamento de alto padrão?",
+        "a": "Atendemos. Protegemos o piso e o mobiliário, trabalhamos com o mínimo de quebra e deixamos o ambiente limpo ao terminar."
+      }
+    ]
+  }
+]
